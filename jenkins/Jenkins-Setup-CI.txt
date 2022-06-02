@@ -12,7 +12,9 @@ Java configuration in Jenkins console
 	
 	Manage Jenkins --> Global Tool Configuration --> JDK --> Add JDK
 		Name: myjava ( can be any string )
-		JAVA_HOME: /path/to/javahome ( ex: /usr/lib/jvm/java )
+		JAVA_HOME: /path/to/javahome ( ex: /usr/lib/jvm/java-8-openjdk-amd64)
+		
+		Here is the git path /usr/bin/git
 
 Maven Configuration in Jenkins console
 	
